@@ -1,0 +1,10 @@
+project_id = "guqgfxwxvdgodfmemfei"
+
+[functions.analyze-media]
+verify_jwt = false
+
+[functions.generate-report-pdf]
+verify_jwt = false
+
+[functions.analyze-link]
+verify_jwt = false
